@@ -4,7 +4,7 @@ char username[MAXWD]=".USER_DCOI";
 char* fileuser;
 char* nowpwd;
 char versionseen[40]=_VERSION_;
-char rootkey[MAXWD]="s2*(23j1@ed3";
+char rootkey[MAXWD]="fh4&s%bb$s21-+p'[d";
 char cdkey[MAXWD]="1099-2134-3678-2831";
 int sys_round_crypt_key_1[]={3,7,8,2,9,5,4};
 char f_extlist_ini[20]="ext/list.ini";
