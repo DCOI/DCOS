@@ -4,3 +4,5 @@ A Operation System Made By OIers.
 
 MrYang已于2015年4月1日正式停止开发
 DCOS的后续版本研发将由全体DCOI学子接手负责
+
+强烈谴责中国GFW劫持无辜网民百度流量攻击GitHub!
